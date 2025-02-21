@@ -1,4 +1,4 @@
-# NYC Airbnb Price Analysis Report
+# NYC Airbnb Price Analysis
 ## Executive Summary
 
 This analysis focuses on Airbnb pricing trends and listing reviews across New York City. The insights aim to assist Airbnb stakeholders, including hosts and investors, to refine pricing strategies and improve listing performance.
