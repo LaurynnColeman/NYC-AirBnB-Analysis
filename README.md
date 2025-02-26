@@ -16,4 +16,6 @@ This analysis focuses on Airbnb pricing trends and listing reviews across New Yo
 -**Luxury Listings Need Unique Value Propositions**: High-end Airbnb stays should enhance guest experience to justify premium pricing and increase listing reviews.
 -**Use Seasonal Pricing Models**: Adjust rates based on historical price trends and demand fluctuations.
 
+![Dashboard](dashboard/NY%20airbnb%20dashboard.png)
+
 ### If you have suggestions for enhancing the code or the project overall, please feel free to open an issue or submit a pull request. Your contributions are greatly appreciated!
