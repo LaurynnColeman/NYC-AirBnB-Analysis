@@ -12,9 +12,9 @@ This analysis focuses on Airbnb pricing trends and listing reviews across New Yo
 
 ### Conclusion & Recommendations
 - **Optimize Pricing**: Listings under $500 receive more engagement, making them more attractive to guests.
--**Target Budget Travelers**: Hosts in Queens, Bronx, and Staten Island can attract price-sensitive guests.
--**Luxury Listings Need Unique Value Propositions**: High-end Airbnb stays should enhance guest experience to justify premium pricing and increase listing reviews.
--**Use Seasonal Pricing Models**: Adjust rates based on historical price trends and demand fluctuations.
+- **Target Budget Travelers**: Hosts in Queens, Bronx, and Staten Island can attract price-sensitive guests.
+- **Luxury Listings Need Unique Value Propositions**: High-end Airbnb stays should enhance guest experience to justify premium pricing and increase listing reviews.
+- **Use Seasonal Pricing Models**: Adjust rates based on historical price trends and demand fluctuations.
 
 ![Dashboard](dashboard/NY_airbnb_dashboard.png)
 
